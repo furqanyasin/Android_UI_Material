@@ -26,6 +26,8 @@
             app:layout_scrollFlags="scroll|enterAlwaysCollapsed"
             app:titleEnabled="false">
 
+
+
             <FrameLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
